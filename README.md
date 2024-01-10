@@ -19,7 +19,7 @@
     <img alt="GitHub issues" src="https://img.shields.io/github/issues/Rohit054/E-Waste-Management-Website-Using-HTML-CSS-JS?style=for-the-badge&logo=github&color=red">
   </a>
   <a href="https://github.com/Rohit054/E-Waste-Management-Website-Using-HTML-CSS-JS/blob/main/LICENSE">
-    <img alt="License" src="https://img.shields.io/github/license/Rohit054/E-Waste-Management-Website-Using-HTML-CSS-JS?style=for-the-badge&logo=creative%20commons&color=green">
+    
   </a>
 </p>
 
