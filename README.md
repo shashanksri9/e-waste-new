@@ -64,14 +64,5 @@ Clearly state if you welcome contributions and explain how others can contribute
 
 Mention the license under which your project is distributed. Provide a link to the license file for more details.
  -->
-## ⭐️ Contact
-
-You can reach out to me on LinkedIn:
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rohit-yadav-842317251)
-
-[![Email](https://img.shields.io/badge/Email-Send%20Mail-red?style=for-the-badge&logo=gmail)](mailto:rohit.yadav2020@vitbhopal.ac.in)
-
-Feel free to connect with me to discuss any questions, suggestions, or collaborations related to this project.
 
 </details>
